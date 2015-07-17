@@ -6,6 +6,10 @@ The static files are served from port 8080 and livereload runs on port 8081. Wor
 
 ## Usage
 
+[Click here to clone this repository in Cloud9](https://c9.io/open/git/?url=git@github.com:cloud9ide/livereload-example.git)
+
+
+Then in the terminal run:
 ```
 > npm install
 > npm start 
@@ -13,4 +17,4 @@ The static files are served from port 8080 and livereload runs on port 8081. Wor
 
 Click Preview -> Preview running application in Cloud9
 
-Then modify the style.scss, script.js or index.html files and watch it compile and apply your changes to your page in real time!
+Then modify the style.scss, script.js or index.html files and watch it compile and apply the changes to your page in real time!
